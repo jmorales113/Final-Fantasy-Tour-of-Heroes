@@ -1,2 +1,2 @@
-# Final-Fantasy-Tour-of-Heroes
+# Tour-of-Heroes
 Angular Introduction
