@@ -2,7 +2,7 @@ import { Hero } from "./hero"
 
 export const HEROES: Hero[] = [
   { id: 11, name: "Squall" },
-  { id: 12, name: "Luneth" },
+  { id: 12, name: "Cloud" },
   { id: 13, name: "Firion" },
   { id: 14, name: "Vaan" },
   { id: 15, name: "Lightning" },
